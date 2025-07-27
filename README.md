@@ -11,8 +11,8 @@ This project is intended for security researchers and students.
 
 ## 🚫 Disclaimer
 
-This repository is provided for **educational purposes only** and intended for **authorized security research**.
-Use of these materials in unauthorized or illegal activities is **strictly prohibited**.
+This repository is provided for educational purposes only and intended for authorized security research.
+Use of these materials in unauthorized or illegal activities is strictly prohibited.
 
 ## Functional Specifics 
 
@@ -32,7 +32,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 ## Repository Structure
 1️⃣ **Auto-Color**  
 
-    Polymorphic obfuscation toolkit that uses color-based encoding to evade static detection.  
+    Polymorphic obfuscation toolkit that uses color based encoding to evade static detection.  
 
 2️⃣ **BypassAV**  
 
@@ -40,7 +40,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 3️⃣ **CallstackSpoofingPOC**  
 
-    Proof-of-concept demonstrating call-stack spoofing techniques to defeat Control-Flow Integrity (CFI).  
+    Proof-of-concept demonstrating call-stack spoofing techniques to defeat Control-Flow Integrity CFI.  
 
 4️⃣ **DSC**  
 
@@ -56,11 +56,11 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 7️⃣ **Hanshell**  
 
-    Shellcode packer/loader with dynamic encryption and anti-analysis features.  
+    Shellcode packer/loader with dynamic encryption and anti analysis features.  
 
 8️⃣ **PPL-0day**
 
-    Proof-of-concept exploit targeting Windows Protected Process Light (PPL) to bypass PPL enforcement.  
+    Proof-of-concept exploit targeting Windows Protected Process Light PPL to bypass PPL enforcement.  
 
 9️⃣ **Shellcode-Injector**
 
@@ -72,7 +72,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 1️⃣1️⃣ **Power-killEDR_AV**  
 
-    Utility to terminate EDR/AV processes by exploiting high-privilege system calls.  
+    Utility to terminate EDR/AV processes by exploiting high privilege system calls.  
 
 1️⃣2️⃣ **Zapper**  
 
@@ -88,11 +88,11 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 1️⃣5️⃣ **Bypass-Smartscreen**  
 
-    Implements methods to circumvent Windows SmartScreen application reputation checks and “unknown publisher” warnings.
+    Implements methods to circumvent Windows SmartScreen application reputation checks and unknown publisher warnings.
 
 1️⃣6️⃣ **Google Script Proxy**  
 
-    Command-and-control proxy using Google Apps Script to relay C2 traffic over Google’s infrastructure.
+    Command-and-control proxy using Google Apps Script to relay C2 traffic over Google infrastructure.
 
 1️⃣7️⃣ **PE-infector**  
 
@@ -104,11 +104,11 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 1️⃣9️⃣ **Shellcode-Loader**  
 
-    Simple framework for allocating memory, writing shellcode, and invoking it via various injection primitives (e.g., CreateRemoteThread).
+    Simple framework for allocating memory, writing shellcode, and invoking it via various injection primitives.
 
 2️⃣0️⃣ **Shellcode-Mutator**  
 
-    Applies polymorphic transformations to raw shellcode—encryption, encoding, padding—to evade signature-based detection.
+    Applies polymorphic transformations to raw shellcode encryption, encoding, padding to evade signature-based detection.
 
 2️⃣1️⃣ **el84_injector**  
 
@@ -120,7 +120,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 2️⃣3️⃣ **Byte**
 
-    ZIP-bomb generator that creates ultra-compressed archives which expand into huge file sets to exhaust disk space, memory, or CPU resources.
+    ZIP-bomb generator that creates ultra compressed archives which expand into huge file sets to exhaust disk space, memory, or CPU resources.
 
 2️⃣4️⃣ **Cryptolib**
 
@@ -128,7 +128,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 2️⃣5️⃣ **Dump**
 
-    Utility for dumping process and kernel memory (including LSASS) with support for compression and encryption of the output files.
+    Utility for dumping process and kernel memory including LSASS with support for compression and encryption of the output files.
 
 2️⃣6️⃣ **DVUEFI**
 
@@ -140,7 +140,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 2️⃣8️⃣ **Morpheus**
 
-    Stealthy in-memory LSASS dumper: compresses memory dumps and exfiltrates them over obfuscated NTP-style UDP packets secured with RC4 and error-correction.
+    Stealthy in-memory LSASS dumper: compresses memory dumps and exfiltrates them over obfuscated NTP style UDP packets secured with RC4 and error correction.
 
 2️⃣9️⃣ **SecureUxTheme**
 
@@ -164,7 +164,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 3️⃣4️⃣ **gnu-efi**
 
-    Build scripts and headers for creating UEFI applications using GNU-EFI, simplifying Secure Boot testing.
+    Build scripts and headers for creating UEFI applications using GNU EFI, simplifying Secure Boot testing.
 
 3️⃣5️⃣ **injectAmsiBypass**
 
@@ -172,7 +172,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 3️⃣6️⃣ **kernel-callback**
 
-    Kernel-mode injection primitive using Routine Callback, executing payloads in kernel context while bypassing user-mode hooks.
+    Kernel mode injection primitive using Routine Callback, executing payloads in kernel context while bypassing user mode hooks.
 
 3️⃣7️⃣ **kernel-hardening-checker**
 
@@ -184,11 +184,11 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 3️⃣9️⃣ **mcuboot**
 
-    Reference bootloader for microcontrollers with firmware-signature verification and chain-of-trust support for embedded systems.
+    Reference bootloader for microcontrollers with firmware-signature verification and chain of trust support for embedded systems.
 
 4️⃣0️⃣ **phnt**
 
-    Header only collection of Windows NT API definitions and internal structures for low-level system programming.
+    Header only collection of Windows NT API definitions and internal structures for low level system programming.
 
 4️⃣1️⃣ **redlotus**
 
@@ -196,11 +196,11 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
 
 4️⃣2️⃣ **rootkit**
 
-    Kernel mode rootkit framework for hiding processes, inline hooking, and bypassing Event Tracing for Windows (ETW) on modern systems.
+    Kernel mode rootkit framework for hiding processes, inline hooking, and bypassing Event Tracing for Windows ETW on modern systems.
 
 4️⃣3️⃣ **scripts**
 
-    Helper scripts for building, deploying, and automating tools: compilation helpers and test C2-harnesses.
+    Helper scripts for building, deploying, and automating tools: compilation helpers and test C2 harnesses.
 
 4️⃣4️⃣ **shim**
 
@@ -208,7 +208,7 @@ Use of these materials in unauthorized or illegal activities is **strictly prohi
     
 4️⃣5️⃣ **Nimbus**
     
-    Contains a C# reflective-loader for .NET assemblies (EXE/DLL) that loads and immediately executes .NET applications in memory without creating temporary files on disk.
+    Contains a C# reflective-loader for .NET assemblies EXE/DLL that loads and immediately executes .NET applications in memory without creating temporary files on disk.
     
 4️⃣6️⃣ **Shellcode-Hide**
 
