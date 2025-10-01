@@ -221,6 +221,11 @@ Use of these materials in unauthorized or illegal activities is strictly prohibi
 4️⃣8️⃣ **ReverseSocks5**
 
     Tool for organizing a reverse SOCKS5 proxy.
+	
 4️⃣9️⃣ **tsh-master**
 
     Backdoor for Unix-like systems.
+	
+5️⃣0️⃣ **Hunt-Sleeping-Beacons**
+
+    Callstack scanner which tries to identify IOCs indicating an unpacked or injected C2 agent.
