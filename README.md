@@ -229,3 +229,8 @@ Use of these materials in unauthorized or illegal activities is strictly prohibi
 5️⃣0️⃣ **Hunt-Sleeping-Beacons**
 
     Callstack scanner which tries to identify IOCs indicating an unpacked or injected C2 agent.
+
+5️⃣1️⃣ **BitlockMove**
+
+    Lateral Movement via Bitlocker DCOM & COM Hijacking, PoC for Lateral Movement abuses the fact, that some COM Classes configured as INTERACTIVE USER will spawn a process in the context of the currently logged on users session.
+
