@@ -10,9 +10,8 @@ All the tools in this repository are a collection that continues to grow, the au
 This project is intended for security researchers and students. 
 
 ## 🚫 Disclaimer
-
-This repository is provided for educational purposes only and intended for authorized security research.
-Use of these materials in unauthorized or illegal activities is strictly prohibited.
+> This repository is provided for educational purposes only and intended for authorized security research.
+> Use of these materials in unauthorized or illegal activities is strictly prohibited.
 
 ## Functional Specifics 
 
