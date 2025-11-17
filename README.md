@@ -241,3 +241,7 @@ Use of these materials in unauthorized or illegal activities is strictly prohibi
 5️⃣3️⃣ **ZipKiller** 
 
     Tool written in Python 3 that uses the built-in zipfile module to perform dictionary and brute-force attacks on .zip archives. It is designed to be fast, efficient, and beginner-friendly for learning purposes. The tool supports saving and loading password lists from a configuration file, allowing users to manage their wordlists and reuse them easily during password cracking.
+
+5️⃣4️⃣ **Invisi-ShellHide**
+
+    Invisi-Shell bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies. The hook is performed via CLR Profiler API.
