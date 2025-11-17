@@ -14,21 +14,21 @@ This project is intended for security researchers and students.
 > Use of these materials in unauthorized or illegal activities is strictly prohibited.
 
 <h2 align="center">[Overview Specifics]</h2>
-
-
-- Obfuscation & Polymorphism  
-- AV/EDR Bypass  
-- Windows SmartScreen Bypass  
-- C2 Proxy Relaying  
-- Control-Flow Spoofing  
-- Driver Signature Bypass  
-- EFI/Boot Protection Bypass  
-- PE Infector & Binary Patching  
-- Shellcode Injection & Loaders  
-- APC-Based Code Injection  
-- Shellcode Mutation  
-- Defense Process Termination    
-
+<p align="center">
+  <img alt="Red Team" src="https://img.shields.io/badge/Obfuscation & Polymorphism -red?style=flat-square" />
+  <img alt="EDR Bypass" src="https://img.shields.io/badge/AV/EDR Bypass-brightgreen?style=flat-square" />
+  <img alt="Rootkits" src="https://img.shields.io/badge/Windows SmartScreen Bypass -blue?style=flat-square" />
+  <img alt="Direct Syscalls" src="https://img.shields.io/badge/C2 Proxy Relaying-orange?style=flat-square" />
+  <img alt="HVNC" src="https://img.shields.io/badge/Control-Flow Spoofing-8A2BE2?style=flat-square" />
+  <img alt="Spyware" src="https://img.shields.io/badge/Driver Signature Bypass-black?style=flat-square" />
+  <img alt="Rootkits" src="https://img.shields.io/badge/EFI/Boot Protection Bypass-blue?style=flat-square" />
+  <img alt="Direct Syscalls" src="https://img.shields.io/badge/PE Infector & Binary Patching-orange?style=flat-square" />
+  <img alt="HVNC" src="https://img.shields.io/badge/Shellcode Injection & Loaders-8A2BE2?style=flat-square" />
+  <img alt="Spyware" src="https://img.shields.io/badge/Based Code Injection-black?style=flat-square" />
+  <img alt="Spyware" src="https://img.shields.io/badge/Shellcode Mutation-black?style=flat-square" />
+  <img alt="Rootkits" src="https://img.shields.io/badge/Defense Process Termination -blue?style=flat-square" />
+</p>
+    
 ---
 
 ## Repository Structure
