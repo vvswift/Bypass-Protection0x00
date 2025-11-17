@@ -237,4 +237,7 @@ Use of these materials in unauthorized or illegal activities is strictly prohibi
 5️⃣2️⃣ **WatchDogKiller**
 
 	PoC accompanying technical write-up on the WatchDog Anti-Malware amsdk.sys BYOVD vulnerability.
+	
+5️⃣3️⃣ **ZipKiller** 
 
+    Tool written in Python 3 that uses the built-in zipfile module to perform dictionary and brute-force attacks on .zip archives. It is designed to be fast, efficient, and beginner-friendly for learning purposes. The tool supports saving and loading password lists from a configuration file, allowing users to manage their wordlists and reuse them easily during password cracking.
