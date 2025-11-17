@@ -13,7 +13,7 @@ This project is intended for security researchers and students.
 > This repository is provided for educational purposes only and intended for authorized security research.
 > Use of these materials in unauthorized or illegal activities is strictly prohibited.
 
-## Functional Specifics 
+### Functional Specifics 
 
 - Obfuscation & Polymorphism  
 - AV/EDR Bypass  
@@ -27,6 +27,8 @@ This project is intended for security researchers and students.
 - APC-Based Code Injection  
 - Shellcode Mutation  
 - Defense Process Termination    
+
+---
 
 ## Repository Structure
 1️⃣ **Auto-Color**  
